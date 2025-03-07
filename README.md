@@ -1,4 +1,5 @@
 Adrián Ramos Mejías
+
 alu0101018300
 
 Aquí se encuentra el código realizado por ChatGPT en los que se ha experimentado.
